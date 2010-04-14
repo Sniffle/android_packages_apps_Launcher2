@@ -63,4 +63,63 @@
     <string name="permdesc_write_settings" msgid="1098648778383349818">"ホームの設定とショートカットの変更をアプリケーションに許可します。"</string>
     <string name="search_hint" msgid="6974176141372467453">"Google検索"</string>
     <string name="gadget_error_text" msgid="8359351016167075858">"ウィジェットを表示できません"</string>
+
+    <!-- mods -->
+    <string name="menu_mod_settings">ホーム設定</string>
+
+	<!-- Launcher2 Preferences Categories: -->
+	<string name="pref_behavior_settings">動作</string>
+	<string name="pref_screen_settings">スクリーン</string>
+	<string name="pref_icon_settings">アイコン(要再起動)</string>
+	<string name="pref_app_settings">ショートカット(拡張)</string>
+
+	<string name="pref_about">Launcher2 Mod 情報</string>
+	
+	<!-- Launcher2 Preferences Items: -->
+	<string name="pref_title_launcher2_screen_size">スクリーンサイズ</string>
+	<string name="pref_summary_launcher2_screen_size">(要再起動)スクリーンサイズ: <xliff:g id="count">%1$s</xliff:g></string>
+	<string name="pref_summary_launcher2_set_screen_size">スクリーンサイズの設定</string>
+	<string name="pref_title_quick_shortcuts">クイックショートカット</string>
+	<string name="pref_summary_quick_shortcuts">クイックショートカットを有効にする; 無効にすると標準の「ドット」を表示する</string>
+	<string name="pref_title_launcher_default_screen">デフォルトスクリーン</string>
+	<string name="pref_summary_launcher_default_screen">(要再起動)デフォルトスクリーン: <xliff:g id="count">%1$s</xliff:g></string>
+	<string name="pref_summary_launcher_set_default_screen">デフォルトスクリーン番号を設定する</string>
+	<string name="pref_title_fullscreen">フルスクリーン</string>
+	<string name="pref_summary_fullscreen">通知ステータスバーを隠す</string>
+	<string name="pref_title_hide_labels">アイコンラベルを隠す</string>
+	<string name="pref_summary_hide_labels">デスクトップアイコンのタイトルラベルを隠す</string>
+	<string name="pref_title_show_shortcuts_label">ショートカットラベルの表示</string>
+	<string name="pref_summary_show_shortcuts_label">アイコンラベルを隠していても、ショートカットのラベルは表示する</string>
+	<string name="pref_title_longpress_add">スクリーン長押し</string>
+	<string name="pref_summary_longpress_add">スクリーン長押しでアイテムの追加をできるようにする</string>
+	<string name="pref_title_double_tap">スクリーンダブルタップ</string>
+	<string name="pref_summary_double_tap">スクリーンのダブルタップでプレビューを表示する</string>
+	<string name="pref_title_auto_orientation">スクリーンの回転</string>
+	<string name="pref_summary_auto_orientation">スクリーンの回転を有効にする</string>
+	
+	<string name="pref_summary_app_settings">ヒント: アイコンのドラッグアンドドロップでスクリーン下部にショートカットを追加できます</string>
+	<string name="pref_title_app_settings_2">ショートカットの削除</string>
+	<string name="pref_summary_app_settings_2">ヒント: ショートカットアイコンの長押しで削除できます</string>
+	<string name="pref_title_app_package">アプリケーションパッケージ</string>
+	<string name="pref_summary_app_package">アプリケーションのフルネーム</string>
+	<string name="pref_title_app_class">アプリケーションクラス</string>
+	<string name="pref_summary_app_class">Intentから呼びだされるクラス名</string>
+	<string name="pref_title_app_uri">アプリケーション URI</string>
+	<string name="pref_summary_app_uri">クラスでIntentを上書きするURI</string>
+	
+	<string name="pref_title_launcher2_version">バージョン</string>
+	<string name="pref_summary_launcher2_version">0.7BETA2</string>
+	<string name="pref_title_launcher2_author">作者</string>
+	<string name="pref_summary_launcher2_author">Faruq (twitter.com/ruqqq)</string>
+	<string name="pref_title_launcher2_restart">Launcher2を再起動</string>
+
+	<string name="restore_default">初期設定に戻す</string>
+	
+	<!-- Text to be used for affirmative response button in dialog boxes -->
+	<string name="yes">OK</string>
+    <!-- Text to be used for negative response button in dialog boxes -->
+    <string name="no">キャンセル</string>
+    <!-- Text to be used for affirmative response button in setting SMS limits dialog box -->
+    <string name="set">セット</string>
+
 </resources>
